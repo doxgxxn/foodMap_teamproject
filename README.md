@@ -1,7 +1,7 @@
 # matzip-project
 web crawling from Blueribbon(https://www.bluer.co.kr/) and michelin(https://guide.michelin.com/)
 publish lists of good restaurants by NAVER API and visualization
-using springboot, python, Naver API
+using springboot, python, Naver API 
 
 
 
